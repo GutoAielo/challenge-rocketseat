@@ -1,0 +1,8 @@
+:root {
+  --font-size: 100%;
+  --hue: 250;
+  --color-bg: hsl(var(--hue), 0%, 89%);
+  --color-bg-tx-lnk: hsl(var(--hue), 0%, 46%);
+  --color-divider: hsl(var(--hue), 2%, 14%);
+  --media-querie-md: 680px;
+}
